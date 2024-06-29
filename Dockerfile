@@ -11,5 +11,5 @@ RUN python -m pip install --upgrade yt-dlp
 COPY . /app/
 WORKDIR /app/
 RUN pip3 install --no-cache-dir -U -r requirements.txt
-##❖ ➥ itzAsuraa™🇮🇳
+#❖ ➥ itzAsuraa™🇮🇳
 CMD bash start
