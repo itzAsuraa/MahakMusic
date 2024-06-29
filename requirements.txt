@@ -30,5 +30,4 @@ async_pymongo
 gpytranslate
 search_engine_parser
 gtts
-git+https://github.com/yt-dlp/yt-dlp
 pornhub-api==0.3.0
